@@ -2,7 +2,10 @@
 
 **obligate** is a library for defining obligations for functions to adhere to.
 
-[![Build Status](https://travis-ci.org/pluma/obligate.png?branch=master)](https://travis-ci.org/pluma/obligate) [![Coverage Status](https://coveralls.io/repos/pluma/obligate/badge.png?branch=master)](https://coveralls.io/r/pluma/obligate?branch=master) [![NPM version](https://badge.fury.io/js/obligate.png)](http://badge.fury.io/js/obligate) [![Dependencies](https://david-dm.org/pluma/obligate.png)](https://david-dm.org/pluma/obligate)
+[![stability 5 - locked](http://b.repl.ca/v1/stability-5_--_locked-blue.png)
+](http://nodejs.org/api/documentation.html#documentation_stability_index) [![license - Unlicense](http://b.repl.ca/v1/license-Unlicense-lightgrey.png)](http://unlicense.org/)
+
+[![Build Status](https://travis-ci.org/pluma/obligate.png?branch=master)](https://travis-ci.org/pluma/obligate) [![Coverage Status](https://coveralls.io/repos/pluma/obligate/badge.png?branch=master)](https://coveralls.io/r/pluma/obligate?branch=master) [![Dependencies](https://david-dm.org/pluma/obligate.png?theme=shields.io)](https://david-dm.org/pluma/obligate)
 
 # Features
 
